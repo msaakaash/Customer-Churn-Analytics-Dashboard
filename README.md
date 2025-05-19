@@ -33,7 +33,12 @@ Here is a snapshot of the interactive Power BI dashboard:
 - **Data Modeling** to connect and clean datasets
 - **Data Visualization** best practices for effective storytelling
 
+## Code of Conduct
+
+Please read our [Code of Conduct](./CODE_OF_CONDUCT.md) before contributing to this project.
+
 ## License
+
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
