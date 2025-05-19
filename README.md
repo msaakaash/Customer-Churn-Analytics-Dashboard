@@ -10,6 +10,15 @@ An interactive Power BI dashboard analyzing customer behavior, churn rates, and 
 - Advanced Segmentation and Real-time Data Exploration
 - Slicers and dynamic filtering to drill down customer attributes
 
+## Dashboard Preview
+
+Here is a snapshot of the interactive Power BI dashboard:
+
+![Customer Churn Dashboard](images/dashboard.png)
+
+> The dashboard highlights churn behavior segmented by demographics, payment methods, and contract types.
+
+
 
 ## Key Insights
 - Churn rate stands at **27%**, highlighting a need for focused retention strategies.
@@ -28,4 +37,4 @@ An interactive Power BI dashboard analyzing customer behavior, churn rates, and 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
- [**Aakaash M S**](https://github.com/msaakaash)
+[**Aakaash M S**](https://github.com/msaakaash)
